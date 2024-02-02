@@ -1,16 +1,3 @@
-
--- CLEAN UP
--- run the following lines to clean up the database
-/*
-use kids_shop;
-drop table category;
-drop table product;
-drop table vote;
-*/
-/*
-If you already have the database, do not run the next two lines
-*/
-create database kids_shop;
 use kids_shop;
 
 create table category (
@@ -41,7 +28,3 @@ begin
     where 1 = 1;
 end;//
 delimiter ;
-
-use kids_shop_migrations;
-
-call add_to_change_log("Mirza Mohammad Azwad","4_kids_shop_seed.sql");

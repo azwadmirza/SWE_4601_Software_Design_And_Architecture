@@ -27,7 +27,3 @@ insert into vote(product_id, is_up_vote) values
     (5, true);
 
 call recalculate_product_votes(); 
-
-use kids_shop_migrations;
-
-call add_to_change_log("Mirza Mohammad Azwad","4_kids_shop_seed.sql");

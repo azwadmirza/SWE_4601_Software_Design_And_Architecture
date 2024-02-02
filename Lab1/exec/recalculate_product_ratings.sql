@@ -4,7 +4,6 @@ SET SQL_SAFE_UPDATES = 0;
 UPDATE rating SET rating=5 WHERE is_up_vote=1;
 UPDATE rating SET rating=0 WHERE is_up_vote=0;
 ALTER TABLE rating DROP column is_up_vote;
-DROP procedure recalculate_product_ratings;
 delimiter //
 create procedure recalculate_product_ratings()
 begin

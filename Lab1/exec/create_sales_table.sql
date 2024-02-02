@@ -1,6 +1,6 @@
 use kids_shop;
 
-CREATE TABLE seller(
+CREATE TABLE employee(
 	id int NOT NULL AUTO_INCREMENT,
     PRIMARY KEY(id)
 );
@@ -8,11 +8,11 @@ CREATE TABLE seller(
 CREATE TABLE invoice(
 	id int,
     customer_id int,
-    seller_id int,
+    employee_id int,
     selling_datetime datetime DEFAULT NOW(),
     primary key(id),
     foreign key(customer_id) references customer(id),
-    foreign key(seller_id) references seller(id)
+    foreign key(employee_id) references employee(id)
 );
 
 CREATE TABLE sale(
@@ -24,6 +24,3 @@ CREATE TABLE sale(
     foreign key(invoice_id) references invoice(id),
     foreign key(product_id) references product(id)
 );
-
-use kids_shop_migrations;
-call add_to_change_log("Mirza Mohammad Azwad","9_create_sales_table.sql");

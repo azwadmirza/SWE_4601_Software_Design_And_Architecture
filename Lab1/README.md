@@ -1,1 +1,0 @@
-In this lab while I simply tried to carry out the lab tasks, I was also looking for solutions to automate the process thus taking this lab task a step further and hence in this directory I would like to slowly outline the process of automating the lab task to ensure evolutionary behavior.

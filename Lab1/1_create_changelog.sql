@@ -1,3 +1,4 @@
+create database kids_shop;
 use kids_shop;
 create table changelog(
 	CHANGE_NUMBER  int NOT NULL AUTO_INCREMENT,

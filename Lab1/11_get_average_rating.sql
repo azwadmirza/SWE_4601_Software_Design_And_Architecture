@@ -7,3 +7,4 @@ begin
 	select average;
 end;//
 delimiter ;
+call add_to_change_log("Mirza Mohammad Azwad","11_get_average_rating.sql");

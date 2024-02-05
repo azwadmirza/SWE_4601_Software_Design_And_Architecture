@@ -24,3 +24,5 @@ CREATE TABLE sale(
     foreign key(invoice_id) references invoice(id),
     foreign key(product_id) references product(id)
 );
+
+call add_to_change_log("Mirza Mohammad Azwad","8_create_sales_table.sql");

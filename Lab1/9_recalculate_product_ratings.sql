@@ -38,4 +38,4 @@ delimiter ;
 call recalculate_product_ratings();
 
 SELECT * FROM product;
-
+call add_to_change_log("Mirza Mohammad Azwad","9_recalculate_product_ratings.sql");

@@ -6,3 +6,5 @@ CREATE TABLE customer(
     rating_timestamp datetime default NOW(),
     PRIMARY KEY(id)
 );
+
+call add_to_change_log("Mirza Mohammad Azwad","7_create_customer_table.sql");

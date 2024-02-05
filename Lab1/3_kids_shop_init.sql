@@ -28,3 +28,5 @@ begin
     where 1 = 1;
 end;//
 delimiter ;
+
+call add_to_change_log("Mirza Mohammad Azwad","3_kids_shop_init.sql");

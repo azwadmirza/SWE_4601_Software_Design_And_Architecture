@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3713c6d-2bd2-4786-890e-8c5b94845a02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab1/10_add_rating.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/11_get_average_rating.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/12_modified_rating.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/13_modify_for_sale_category_optimization.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/14_get_sale_per_category.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/15_set_product_category.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/1_create_changelog.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/2_add_to_change_log.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/3_kids_shop_init.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/4_kids_shop_seed.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/5_rename_vote_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/6_add_column_product_average_rating.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/7_create_customer_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/8_create_sales_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/9_recalculate_product_ratings.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2d1CtnouwHZMkyutkyhKQs6TyOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Resources/Third Year/Sixth Semester/SWE4601SoftwareDevelopmentAndArchitecture/Lab/SWE_4601_Software_Design_And_Architecture/200042121_L3/eureka-server",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3713c6d-2bd2-4786-890e-8c5b94845a02" name="Changes" comment="" />
+      <created>1709166419626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709166419626</updated>
+      <workItem from="1709166420626" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+# Eureka server configuration
+spring:
+  application:
+    name: employee-service
+  data:
+    mongodb:
+      uri: mongodb+srv://mirzaazwad:123@cluster0.1nfyxcz.mongodb.net/client?retryWrites=true&w=majority
+
+
+server:
+  port: 9002
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+      hostname: localhost
